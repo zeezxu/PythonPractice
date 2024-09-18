@@ -1,4 +1,6 @@
-Python Projects 
-============================================
+# Python Projects
 
-Python projects which can run on school platform. The files here are the student part of the project. 
+Python projects which can run on school platform. 
+
+> [!CAUTION]
+> The files here are the student parts of the projects. They cannot run independently by themselves.  
